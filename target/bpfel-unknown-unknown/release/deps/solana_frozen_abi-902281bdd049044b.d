@@ -1,0 +1,10 @@
+/home/farooq/Documents/code/anchor/myepicproject/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-902281bdd049044b.rmeta: /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/lib.rs /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_digester.rs /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_example.rs /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/hash.rs
+
+/home/farooq/Documents/code/anchor/myepicproject/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-902281bdd049044b.rlib: /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/lib.rs /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_digester.rs /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_example.rs /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/hash.rs
+
+/home/farooq/Documents/code/anchor/myepicproject/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-902281bdd049044b.d: /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/lib.rs /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_digester.rs /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_example.rs /home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/hash.rs
+
+/home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/lib.rs:
+/home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_digester.rs:
+/home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/abi_example.rs:
+/home/farooq/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.10.41/src/hash.rs:
